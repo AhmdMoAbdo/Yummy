@@ -20,5 +20,4 @@ Quick Video Showing off the app
 
 https://drive.google.com/file/d/1O9HBAjJJVQ2cOH_cqhnI8sRWKYVfrmu2/view?usp=drive_link
 
-
-![launch](https://github.com/user-attachments/assets/7c39ff99-c780-489f-8532-eef4760873f7)
+![launch](https://github.com/user-attachments/assets/2059dadb-af22-4bb2-881b-d6f132c8790d)
